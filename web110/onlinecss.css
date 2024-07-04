@@ -1,6 +1,6 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: #ff000000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #e2f105;
     margin: 0;
     padding: 0;
 }
@@ -10,11 +10,11 @@ body {
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
-    box-shadow: 0 0 10px rgb(241, 9, 9);
+    box-shadow: 0 0 10px rgb(208, 255, 0);
 }
 
 h1 {
-    color: #333;
+    color: #ffee00;
     text-align: center;
 }
 
